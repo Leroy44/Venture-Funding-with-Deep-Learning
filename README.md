@@ -27,5 +27,4 @@ Fintech module 13
 
 ## Contributors:
 
-Lee Copeland
-Columbia Engineering
+Lee Copeland - Columbia Engineering
