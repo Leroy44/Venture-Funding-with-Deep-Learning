@@ -1,6 +1,5 @@
 # Venture Funding with Deep Learning
-Columbia University Engineering
-Fintech module 13
+Columbia University Engineering - Fintech module 13
 
 
 ## Usage
